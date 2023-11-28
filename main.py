@@ -6,7 +6,6 @@ import sys
 import random
 from UI import Ui_MainWindow
 
-
 SCREEN_SIZE = [680, 480]
 
 
